@@ -1,0 +1,26 @@
+{
+  "name": "image-bucket-node-js",
+  "version": "1.0.0",
+  "description": "Image Bucket",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Image",
+    "Bucket",
+    "Js",
+    "Express",
+    "JS",
+    "Node",
+    "JS",
+    "File",
+    "Handling"
+  ],
+  "author": "Istiaq Hasan",
+  "license": "ISC",
+  "dependencies": {
+    "ba64": "^3.0.9",
+    "express": "^4.17.1"
+  }
+}
